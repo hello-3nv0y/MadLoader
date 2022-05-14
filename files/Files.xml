@@ -1,6 +1,7 @@
+<files>
    <file>
       <name>AutoUpdate.exe</name>
-      <hash>57F4E7C4C9596DB013F7811B6A9998F5</hash>
+      <hash>1A478DB942FE7E5392C11CF400955620</hash>
       <url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/AutoUpdate.exe</url>
    </file>
    <file>
@@ -113,3 +114,4 @@
       <hash>F17DB40C8253FAB8642753677453C49C</hash>
       <url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/styles/qwindowsvistastyle.dll</url>
    </file>
+</files>
