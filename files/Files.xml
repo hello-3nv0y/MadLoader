@@ -1,0 +1,105 @@
+<file>
+	<name>AutoUpdate.exe</name>
+	<hash>0264FEC78EC033037FFACA6BCB9B6155</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/AutoUpdate.exe</url>
+</file>
+<file>
+	<name>bearer/qgenericbearer.dll</name>
+	<hash>0CD5E6423509F722A14EA18CDBFF9131</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/bearer/qgenericbearer.dll</url>
+</file>
+<file>
+	<name>imageformats/qgif.dll</name>
+	<hash>0CCE95DCD3F3DBAE0C957500AF6FF7B0</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/imageformats/qgif.dll</url>
+</file>
+<file>
+	<name>imageformats/qicns.dll</name>
+	<hash>D4F3874ACB16D7DA9B47E03166F738F7</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/imageformats/qicns.dll</url>
+</file>
+<file>
+	<name>imageformats/qico.dll</name>
+	<hash>1323CCAA656E019B2CF3CE8604527BB1</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/imageformats/qico.dll</url>
+</file>
+<file>
+	<name>imageformats/qjpeg.dll</name>
+	<hash>9FB6482C0659D0A441A54B81232D64E1</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/imageformats/qjpeg.dll</url>
+</file>
+<file>
+	<name>imageformats/qsvg.dll</name>
+	<hash>85D6831F35B51C402FA8D3E669F6FBCC</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/imageformats/qsvg.dll</url>
+</file>
+<file>
+	<name>imageformats/qtga.dll</name>
+	<hash>8DDAE0D848400076E87BC9EB7B012FEB</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/imageformats/qtga.dll</url>
+</file>
+<file>
+	<name>imageformats/qtiff.dll</name>
+	<hash>3511A2D7CD717C64EA51F662D722C304</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/imageformats/qtiff.dll</url>
+</file>
+<file>
+	<name>imageformats/qwbmp.dll</name>
+	<hash>76CA2612C03F2FD2F54DEE7D217786C2</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/imageformats/qwbmp.dll</url>
+</file>
+<file>
+	<name>imageformats/qwebp.dll</name>
+	<hash>D28B379C2D8057005D0F0688C3AE62CA</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/imageformats/qwebp.dll</url>
+</file>
+<file>
+	<name>libgcc_s_dw2-1.dll</name>
+	<hash>9AEC524B616618B0D3D00B27B6F51DA1</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/libgcc_s_dw2-1.dll</url>
+</file>
+<file>
+	<name>libstdc++-6.dll</name>
+	<hash>051973A1420749E10D007049F15A30AB</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/libstdc++-6.dll</url>
+</file>
+<file>
+	<name>libwinpthread-1.dll</name>
+	<hash>ED53EEE1623A43E9AE174262169F0F2E</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/libwinpthread-1.dll</url>
+</file>
+<file>
+	<name>platforms/qwindows.dll</name>
+	<hash>10DE385A50ABA297F8B92FB2EEACA1A3</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/platforms/qwindows.dll</url>
+</file>
+<file>
+	<name>Qt5Core.dll</name>
+	<hash>39D509B1675C380DC549972506A8F717</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/Qt5Core.dll</url>
+</file>
+<file>
+	<name>Qt5Gui.dll</name>
+	<hash>F676936B5DFCE1C5AC2F8A1A7F577844</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/Qt5Gui.dll</url>
+</file>
+<file>
+	<name>Qt5Network.dll</name>
+	<hash>CED4531F553504ED6770D999F9C82CB9</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/Qt5Network.dll</url>
+</file>
+<file>
+	<name>Qt5Widgets.dll</name>
+	<hash>B037B86CD074EA2A216BBD4B7B489C9C</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/Qt5Widgets.dll</url>
+</file>
+<file>
+	<name>Qt5Xml.dll</name>
+	<hash>227D0D580CB93164E4A0E755790D90FE</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/Qt5Xml.dll</url>
+</file>
+<file>
+	<name>styles/qwindowsvistastyle.dll</name>
+	<hash>F17DB40C8253FAB8642753677453C49C</hash>
+	<url>https://raw.githubusercontent.com/hello-3nv0y/MadLoader/main/files/styles/qwindowsvistastyle.dll</url>
+</file>
